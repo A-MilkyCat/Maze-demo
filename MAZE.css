@@ -1,0 +1,32 @@
+#para{
+    /* background-color: yellow; */
+    display: inline;
+    font-size: 20px;
+}
+#Maze{
+    position:relative;
+    left: 50px;
+    line-height: 1px;
+    font-size: 20px;
+    font-weight: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: ; */
+    /* justify-content: space-around; */
+  /*  border: 10px solid black;*/
+}
+.Maze_display{
+    margin: 30px;
+}
+.link{
+    position:fixed;
+    bottom:20px;
+    left:20px;
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.small_box{
+    margin: 20px;
+}
